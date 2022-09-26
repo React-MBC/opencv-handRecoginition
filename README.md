@@ -1,5 +1,5 @@
 
-# Hand recognition using opencv
+# Hand Recognition using opencv
 
 This is a repo for hand recognition using openCV.
 
